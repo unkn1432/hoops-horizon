@@ -1,4 +1,3 @@
-// app/page.tsx  ←  replace everything in this file
 import { Button } from "@/components/ui/button"
 
 export default function Home() {
